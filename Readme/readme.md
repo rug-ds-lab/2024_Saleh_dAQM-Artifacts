@@ -204,7 +204,7 @@ last configuration in ns-3. To run a simulation file located in the `scratch` fo
 - `$ export NS_LOG=networkSimulation=info`
 - `$ ./waf --run scratch/Call_function.cc`
 
-#### Contributor
+#### Contributors
 -  Sunny Shu, Saad Saleh and Boris Koldehofe
 
 #### License
