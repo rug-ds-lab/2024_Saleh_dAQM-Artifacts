@@ -204,13 +204,10 @@ last configuration in ns-3. To run a simulation file located in the `scratch` fo
 - `$ export NS_LOG=networkSimulation=info`
 - `$ ./waf --run scratch/Call_function.cc`
 
-#### Author
--  Sunny Shu: Code developer. 
-#### Contributor
--  Saad Saleh: Originator of the dAQM concept.
+#### Contributors
+-  Sunny Shu, Saad Saleh and Boris Koldehofe
 
 #### License
 - This simulation project is an academic endeavor and is built upon the free software
-network simulator ns-3,  under the terms of the GNU General Public License version 2. 
-See the LICENSE file for more information.
+network simulator ns-3. See the LICENSE file for more information.
 </div>
